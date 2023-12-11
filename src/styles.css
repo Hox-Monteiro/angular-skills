@@ -1,0 +1,15 @@
+/* Add application styles & imports to this file! */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+body {
+    background-color: rgb(30, 25, 44);
+    margin: 0
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif !important;
+    color: aliceblue;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+
+.spinner-align {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+}
+
+.mat-toolbar{
+  background-color: rgb(12, 12, 12);
+  color: rgb(228, 16, 93);
+}
